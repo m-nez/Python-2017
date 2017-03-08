@@ -11,5 +11,5 @@ else:
 
 sa = SpectrumAnalyzer(filename)
 sa.export_spectrum("spectrum.txt")
-sa.export_filtered("filtered.txt")
+sa.export_filtered("filtered.wav")
 print("Dominating frequency: %dHz" % sa.dominating_freq())
