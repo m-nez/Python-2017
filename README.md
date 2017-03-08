@@ -1,2 +1,3 @@
 #Wykład z Pythona
-08-03-2017
+Prowadzący: Michał Nieznański  
+Data: 08-03-2017
